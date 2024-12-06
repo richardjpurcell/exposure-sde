@@ -60,6 +60,7 @@ The project is organized as follows:
     - **`trajectory.py`**: Computes trajectory viability.
     - **`weighting.py`**: Applies dynamic weighting factors.
     - **`vdwr_calculator.py`**: Integrates components to compute VDWR.
+    - **`visualization.py`**: Visualizes VDWR results in different plots.
     - **`utils.py`**: Contains helper functions.
 
   - **`tests/`**  
